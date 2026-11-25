@@ -1,0 +1,31 @@
+customer_id,customer_name,account_balance_6m_ago,current_balance,transactions_6m_ago,current_transactions,digital_logins_6m_ago,current_digital_logins,days_since_last_transaction,complaints_last_6m,fd_maturity_days,fd_renewed,salary_credit_active,loan_closed_recently,other_products_count
+CUST001,Aarav Traders,1000000,950000,120,115,80,75,4,0,,0,1,0,4
+CUST002,Blue Star Services,750000,680000,95,80,65,45,18,1,45.0,0,1,0,3
+CUST003,Crescent Textiles,500000,280000,80,35,50,12,45,3,20.0,0,0,0,1
+CUST004,Delta Foods,1250000,1100000,150,130,100,85,8,0,,0,1,0,5
+CUST005,Evergreen Medicals,350000,340000,55,50,30,28,6,0,90.0,1,1,0,2
+CUST006,Fairway Motors,900000,400000,110,45,70,20,60,2,10.0,0,0,1,0
+CUST007,Ganga Hardware,650000,600000,75,70,40,38,10,0,,0,1,0,3
+CUST008,Harbor Exports,2000000,900000,180,60,95,20,50,4,15.0,0,0,0,1
+CUST009,Indigo Retail,450000,420000,50,48,25,24,3,0,,0,1,0,2
+CUST010,Jupiter Logistics,800000,760000,100,90,60,55,12,1,25.0,0,1,0,3
+CUST011,Kaveri Agencies,600000,300000,90,40,45,10,42,3,12.0,0,0,0,1
+CUST012,Lotus Builders,1500000,1400000,130,125,90,88,5,0,,0,1,0,6
+CUST013,Metro Electricals,250000,120000,40,15,20,4,70,3,5.0,0,0,0,0
+CUST014,Nexus Pharma,950000,940000,100,98,75,72,2,0,60.0,1,1,0,4
+CUST015,Orchid Travels,700000,500000,85,50,60,25,35,2,20.0,0,0,0,2
+CUST016,Pioneer Plastics,400000,390000,45,42,22,20,7,0,,0,1,0,2
+CUST017,Quartz Systems,1100000,500000,140,55,80,18,55,3,8.0,0,0,1,0
+CUST018,Riverbank Stores,300000,290000,35,32,15,14,9,0,120.0,1,1,0,1
+CUST019,Sunrise Chemicals,850000,700000,90,70,55,40,20,1,30.0,0,0,0,2
+CUST020,Trident Components,550000,150000,70,20,35,5,65,4,7.0,0,0,0,0
+CUST021,Unity Enterprises,1000000,980000,115,110,70,68,4,0,,0,1,0,5
+CUST022,Vertex Solutions,450000,200000,60,20,35,8,48,2,18.0,0,0,0,1
+CUST023,Willow Garments,1250000,1150000,150,145,90,85,6,0,15.0,1,1,0,4
+CUST024,Xenon Industries,600000,590000,70,65,40,35,14,0,,0,1,0,2
+CUST025,Yellow Mart,800000,350000,95,30,65,10,58,3,22.0,0,0,0,0
+CUST026,Zenith Distributors,350000,340000,45,40,25,20,5,0,75.0,0,1,0,2
+CUST027,Alpha Engineering,900000,650000,105,65,60,30,30,2,28.0,0,0,0,1
+CUST028,Beacon Hospitality,700000,680000,80,75,45,42,7,0,,0,1,0,3
+CUST029,Coral Packaging,500000,200000,65,18,30,5,52,3,6.0,0,0,0,0
+CUST030,Dawn Auto,1400000,1300000,160,150,100,95,3,0,,0,1,0,5

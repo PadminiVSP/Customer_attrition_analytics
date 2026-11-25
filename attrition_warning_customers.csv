@@ -1,0 +1,12 @@
+customer_id,customer_name,account_balance_6m_ago,current_balance,transactions_6m_ago,current_transactions,digital_logins_6m_ago,current_digital_logins,days_since_last_transaction,complaints_last_6m,fd_maturity_days,fd_renewed,salary_credit_active,loan_closed_recently,other_products_count,balance_decline_pct,transaction_decline_pct,attrition_risk_score,risk_category
+CUST020,Trident Components,550000,150000,70,20,35,5,65,4,7.0,0,0,0,0,72.73,71.43,100,HIGH
+CUST029,Coral Packaging,500000,200000,65,18,30,5,52,3,6.0,0,0,0,0,60.0,72.31,100,HIGH
+CUST025,Yellow Mart,800000,350000,95,30,65,10,58,3,22.0,0,0,0,0,56.25,68.42,100,HIGH
+CUST022,Vertex Solutions,450000,200000,60,20,35,8,48,2,18.0,0,0,0,1,55.56,66.67,100,HIGH
+CUST006,Fairway Motors,900000,400000,110,45,70,20,60,2,10.0,0,0,1,0,55.56,59.09,100,HIGH
+CUST008,Harbor Exports,2000000,900000,180,60,95,20,50,4,15.0,0,0,0,1,55.0,66.67,100,HIGH
+CUST017,Quartz Systems,1100000,500000,140,55,80,18,55,3,8.0,0,0,1,0,54.55,60.71,100,HIGH
+CUST013,Metro Electricals,250000,120000,40,15,20,4,70,3,5.0,0,0,0,0,52.0,62.5,100,HIGH
+CUST011,Kaveri Agencies,600000,300000,90,40,45,10,42,3,12.0,0,0,0,1,50.0,55.56,100,HIGH
+CUST003,Crescent Textiles,500000,280000,80,35,50,12,45,3,20.0,0,0,0,1,44.0,56.25,100,HIGH
+CUST015,Orchid Travels,700000,500000,85,50,60,25,35,2,20.0,0,0,0,2,28.57,41.18,50,MEDIUM
